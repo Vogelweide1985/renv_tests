@@ -1,11 +1,7 @@
-require(tidyverse)
+require(dplyr)
 renv::snapshot()
 
 
-
-#Git Credential Tests
-usethis::git_sitrep()
-gitcreds::gitcreds_set() 
 
 
 
